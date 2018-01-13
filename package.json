@@ -1,0 +1,22 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "A test package for client tucker",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webguru221/hello-world.git"
+  },
+  "keywords": [
+      "hello-world"
+  ],
+  "author": "Varun Handa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webguru221/hello-world/issues"
+  },
+  "homepage": "https://github.com/webguru221/hello-world#readme"
+}
